@@ -12,20 +12,66 @@ body{
 }
 
 .main-content{
-    background-color: #FFFFFF;
-    
+   
+    background: #FFFFFF;
+box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+padding: 105px 90px;
     
 }
 
 
 /* about-styles */
 .about{
-    /* background-color: yellow; */
+    margin-bottom: 40px;
+
+}
+
+.about-position{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+    
+    
+    color: #000000;
+    
+}
+
+.about-name{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 25px;
+    color: #000000;
+    
+}
+
+.about-description{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+    
+    
+    color: #595959;
+    
 }
 /* project-title */
-.project-title{
+.title{
+
+    font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+margin-bottom: 10px;
+
+
+color: #000000;
     font-size: 45px;
-    /* color: blue; */
+    
 }
 .projects{
     /* background: pink; */
@@ -33,6 +79,18 @@ body{
    
 
     margin: 100px 90px 300px 60px;
+
+}
+
+.projects-item{
+    font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+
+
+
+color: #000000;
 
 }
 
