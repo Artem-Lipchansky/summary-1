@@ -73,6 +73,21 @@ color: #000000;
     font-size: 45px;
     
 }
+
+
+.projects-list{
+    padding: 0;
+    margin-left: 15px;
+}
+
+.project-link{
+    margin-left: 10px;
+}
+
+
+
+
+
 .projects{
     /* background: pink; */
 
@@ -93,6 +108,29 @@ line-height: 24px;
 color: #000000;
 
 }
+
+.project, .project-link{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+   
+    
+    
+    color: #000000;
+}
+
+
+.project-brackets{
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+
+
+
+color: #000000;}
+
 
 
 
